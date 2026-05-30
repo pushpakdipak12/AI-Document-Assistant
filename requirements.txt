@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+loguru
+python-multipart
+pydantic-settings
+pypdf
+chromadb
+sentence-transformers
+groq
+rank-bm25
+pymupdf
+ragas
+datasets
